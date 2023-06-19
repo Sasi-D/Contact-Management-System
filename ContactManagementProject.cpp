@@ -16,15 +16,14 @@ class contact
 		cout<<"Phone: ";
 		cin>>ph;
 		cout<<"Name: ";
+		
 		cin.ignore();
-		//cin>>name;
 		cin.getline(name,40);
+		
 		cout<<"Address: ";
-		//cin.ignore();
 		cin.getline(address,40);
  
 		cout<<"Email address: ";
-		//cin.ignore();
 		cin>>email;
  
 		cout<<"\n";
