@@ -5,9 +5,8 @@ To run:
 
 Use the following commands:
 
-$ g++ ContactManagementProject.cpp -o temp
-
-$ ./temp
+  $ g++ ContactManagementProject.cpp -o temp
+  $ ./temp
 
 
 
